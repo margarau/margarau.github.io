@@ -21,8 +21,8 @@ h2  {
 }
 
 
-ul {
-	font-family: 'Gandhi', serif;
+p, ul {
+	font-family: "Times New Roman", Times, serif;
 	text-align: center;
 	display: inline; 
 	margin: 0 auto;
